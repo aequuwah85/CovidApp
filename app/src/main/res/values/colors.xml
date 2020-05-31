@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#363636</color>
+    <color name="colorPrimaryDark">#002d72</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Toplamİyileşen">#7bb974</color>
+    <color name="toplamVaka">#ee6363</color>
+    <color name="ToplamÖlüm">#999999</color>
+</resources>
